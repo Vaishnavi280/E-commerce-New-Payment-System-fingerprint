@@ -1,0 +1,91 @@
+************************************* Invoked: Thu Apr 14 12:32:24 2022
+[0] Arguments: C:\Users\Vaish\Downloads\msys2-x86_64-20220319.exe
+[5] Operations sanity check succeeded.
+[7] Language: en-US
+[9] Warning: QMimeDatabase: Error loading internal MIME data
+An error has been encountered at line 1 of <internal MIME data>: Premature end of document.:
+[568] Loaded control script ":/metadata/installer-config/control_js.js"
+[568] Using control script: ":/metadata/installer-config/control_js.js"
+[13283] Preparing meta information download...
+[14771] TargetDirectoryInUse : Error : The directory you selected already exists and contains an installation. Choose a different target for installation.
+[59818] OverwriteTargetDirectory : Warning : You have selected an existing, non-empty directory for installation.
+Note that it will be completely wiped on uninstallation of this application.
+It is not advisable to install into this directory as installation might fail.
+Do you want to continue? Yes|No
+[143783] OverwriteTargetDirectory : Warning : You have selected an existing, non-empty directory for installation.
+Note that it will be completely wiped on uninstallation of this application.
+It is not advisable to install into this directory as installation might fail.
+Do you want to continue? Yes|No
+[153239] backup  operation: Mkdir
+[153239] 	- arguments: C:/Users/Vaish/OneDrive/Documents/Desktop/C C++
+[153240] Done
+[153240] perform  operation: Mkdir
+[153240] 	- arguments: C:/Users/Vaish/OneDrive/Documents/Desktop/C C++
+[153240] Done
+[153241] Preparing the installation...
+[153241] Install size: 2 components
+[153269] Installing component MSYS2 64bit base
+[153269] backup com.msys2.root.base operation: Extract
+[153269] 	- arguments: installer://com.msys2.root.base/20220319msys64.7z, C:/Users/Vaish/OneDrive/Documents/Desktop/C C++
+[153269] Done
+[153269] perform com.msys2.root.base operation: Extract
+[153269] 	- arguments: installer://com.msys2.root.base/20220319msys64.7z, C:/Users/Vaish/OneDrive/Documents/Desktop/C C++
+[186685] Done
+[186685] backup com.msys2.root.base operation: CreateShortcut
+[186685] 	- arguments: C:/Users/Vaish/OneDrive/Documents/Desktop/C C++\msys2_shell.cmd, C:\Users\Vaish\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2 64bit/MSYS2 MinGW x86.lnk, -mingw32, iconPath=C:/Users/Vaish/OneDrive/Documents/Desktop/C C++/mingw32.exe
+[186686] Done
+[186686] perform com.msys2.root.base operation: CreateShortcut
+[186686] 	- arguments: C:/Users/Vaish/OneDrive/Documents/Desktop/C C++\msys2_shell.cmd, C:\Users\Vaish\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2 64bit/MSYS2 MinGW x86.lnk, -mingw32
+[186727] Done
+[186727] backup com.msys2.root.base operation: CreateShortcut
+[186727] 	- arguments: C:/Users/Vaish/OneDrive/Documents/Desktop/C C++\msys2_shell.cmd, C:\Users\Vaish\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2 64bit/MSYS2 MinGW x64.lnk, -mingw64, iconPath=C:/Users/Vaish/OneDrive/Documents/Desktop/C C++/mingw64.exe
+[186727] Done
+[186727] perform com.msys2.root.base operation: CreateShortcut
+[186727] 	- arguments: C:/Users/Vaish/OneDrive/Documents/Desktop/C C++\msys2_shell.cmd, C:\Users\Vaish\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2 64bit/MSYS2 MinGW x64.lnk, -mingw64
+[186748] Done
+[186748] backup com.msys2.root.base operation: CreateShortcut
+[186748] 	- arguments: C:/Users/Vaish/OneDrive/Documents/Desktop/C C++\msys2_shell.cmd, C:\Users\Vaish\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2 64bit/MSYS2 MinGW UCRT x64.lnk, -ucrt64, iconPath=C:/Users/Vaish/OneDrive/Documents/Desktop/C C++/ucrt64.exe
+[186748] Done
+[186748] perform com.msys2.root.base operation: CreateShortcut
+[186748] 	- arguments: C:/Users/Vaish/OneDrive/Documents/Desktop/C C++\msys2_shell.cmd, C:\Users\Vaish\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2 64bit/MSYS2 MinGW UCRT x64.lnk, -ucrt64
+[186768] Done
+[186768] backup com.msys2.root.base operation: CreateShortcut
+[186768] 	- arguments: C:/Users/Vaish/OneDrive/Documents/Desktop/C C++\msys2_shell.cmd, C:\Users\Vaish\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2 64bit/MSYS2 MinGW Clang x64.lnk, -clang64, iconPath=C:/Users/Vaish/OneDrive/Documents/Desktop/C C++/clang64.exe
+[186768] Done
+[186768] perform com.msys2.root.base operation: CreateShortcut
+[186768] 	- arguments: C:/Users/Vaish/OneDrive/Documents/Desktop/C C++\msys2_shell.cmd, C:\Users\Vaish\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2 64bit/MSYS2 MinGW Clang x64.lnk, -clang64
+[186785] Done
+[186785] backup com.msys2.root.base operation: CreateShortcut
+[186785] 	- arguments: C:/Users/Vaish/OneDrive/Documents/Desktop/C C++\msys2_shell.cmd, C:\Users\Vaish\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2 64bit/MSYS2 MSYS.lnk, -msys, iconPath=C:/Users/Vaish/OneDrive/Documents/Desktop/C C++/msys2.exe
+[186786] Done
+[186786] perform com.msys2.root.base operation: CreateShortcut
+[186786] 	- arguments: C:/Users/Vaish/OneDrive/Documents/Desktop/C C++\msys2_shell.cmd, C:\Users\Vaish\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2 64bit/MSYS2 MSYS.lnk, -msys
+[186804] Done
+[186805] backup com.msys2.root.base operation: Execute
+[186806] 	- arguments: C:/Users/Vaish/OneDrive/Documents/Desktop/C C++\usr\bin\bash.exe, --login, -c, exit
+[186806] Done
+[186806] perform com.msys2.root.base operation: Execute
+[186807] 	- arguments: C:/Users/Vaish/OneDrive/Documents/Desktop/C C++\usr\bin\bash.exe, --login, -c, exit
+[196902] C:/Users/Vaish/OneDrive/Documents/Desktop/C C++\\usr\\bin\\bash.exe" started, arguments: "--login -c exit
+[232562] Copying skeleton files.\nThese files are for the users to personalise their msys2 experience.\n\nThey will never be overwritten nor automatically updated.\n\n
+[235197] './.bashrc' -> '/home/Vaish/.bashrc'\n'./.bash_logout' -> '/home/Vaish/.bash_logout'\n'./.bash_profile' -> '/home/Vaish/.bash_profile'\n'./.inputrc' -> '/home/Vaish/.inputrc'\n
+[235207] './.profile' -> '/home/Vaish/.profile'\n
+[240841] 'C:\\WINDOWS\\system32\\drivers\\etc\\hosts' -> '/etc/hosts'\n'C:\\WINDOWS\\system32\\drivers\\etc\\protocol' -> '/etc/protocols'\n
+[240911] 'C:\\WINDOWS\\system32\\drivers\\etc\\services' -> '/etc/services'\n
+[240942] 'C:\\WINDOWS\\system32\\drivers\\etc\\networks' -> '/etc/networks'\n
+[284007] ==> Generating pacman master key. This may take some time.\n
+[284638] ==> Updating trust database...\n
+[284950] ==> Appending keys from msys2.gpg...\n
+[286082] ==> Locally signing trusted keys in keyring...\n
+[286714]   -> Locally signed 6 keys.\n==> Importing owner trust values...\n==> Disabling revoked keys in keyring...\n
+[286866]   -> Disabled 2 keys.\n
+[286877] ==> Updating trust database...\n
+[377137] \x1B[H\x1B[2J\x1B[3J\n\n###################################################################\n#                                                                 #\n#                                                                 #\n#                   C   A   U   T   I   O   N                     #\n#                                                                 #\n#                  This is first start of MSYS2.                  #\n#       You MUST restart shell to apply necessary actions.        #\n#                                                                 #\n#                                                                 #\n###################################################################\n\n\n\x1B[H\x1B[2J\x1B[3J
+[377137] Done
+[377152] Warning: DirectWrite: CreateFontFaceFromHDC() failed (Indicates an error in an input file such as a font file.) for QFontDef(Family="8514oem", pointsize=8.25, pixelsize=20, styleHint=5, weight=50, stretch=100, hintingPreference=0) LOGFONT("8514oem", lfWidth=0, lfHeight=-20) dpi=144
+[377163] Writing maintenance tool: "C:/Users/Vaish/OneDrive/Documents/Desktop/C C++/uninstall.exe.new"
+[377163] Writing maintenance tool.
+[377583] Wrote permissions for maintenance tool.
+[377683] Maintenance tool hard restart: false.
+[377699] Installation finished!
+[678563] starting "C:/Users/Vaish/OneDrive/Documents/Desktop/C C++/msys2_shell.cmd" ()
